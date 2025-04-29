@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-zafarali-t",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TolibovZafarali/practice-redGreenRefactor-Zafarali-T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TolibovZafarali/practice-redGreenRefactor-Zafarali-T/issues"
+  },
+  "homepage": "https://github.com/TolibovZafarali/practice-redGreenRefactor-Zafarali-T#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

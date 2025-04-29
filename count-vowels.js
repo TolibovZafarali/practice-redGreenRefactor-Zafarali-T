@@ -1,6 +1,6 @@
 function countVowels(str) {
     if (typeof str !== 'string') {
-        str = ''
+        str = '';
     }
     
     let vowels = ['A', 'E', 'I', 'O', 'U'];
